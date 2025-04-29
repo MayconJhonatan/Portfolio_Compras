@@ -7,7 +7,7 @@ Principais problemas relatados pelo cliente:<br>
 - Recompras equivocadas;<br>
 - Desequilíbrio de caixa.<br>
 <br>
-<a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/reportEmbed?reportId=fe99c5e7-5e55-4509-a828-75a1f29617d5&autoAuth=true&ctid=9eb08943-dd35-493d-9e7a-37d444bb40eb">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/MayconJhonatan/Portfolio_Compras">Clique aqui</a> e acesse o repositório no Github.
 
