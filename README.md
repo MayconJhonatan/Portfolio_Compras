@@ -28,11 +28,11 @@ Após  a análisar dos dados, foram definidos os principais pontos a serem desen
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Medidas%20compras.png?raw=true">
 Identificado as necessidades do cliente relacionadas com os peridos de recompras, iniciou o desenvolvimento estratégico das medidas de análise.<br>
 Principais medidas desenvolvidas;<br>
- - Análises de faturamento, pedidos, ítens, devoluções;<br>
- - Indicadores de entregas no prazo e com atrasos, além dos respectivos percentuais;<br>
- - Métricas temporais para comparações das entregas In Full;<br>
- - Medidas temporais para comparações das devoluções;<br>
- - OTIF (On Time In Full), indicador que avalia a performance das entregas em relação à pontualidade e à integridade do pedido.<br>
+ - ;<br>
+ - ;<br>
+ - ;<br>
+ - ;<br>
+ - .<br>
 Todas as medidas foram organizadas e padronizadas para facilitar a compreensão. Os resultados obtidos permitiram à empresa direcionar seus esforços para as áreas que demandavam melhorias, contribuindo para a redução de ocorrências futuras.
 
 <br><br>
