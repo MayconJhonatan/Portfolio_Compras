@@ -1,5 +1,5 @@
 ## Dashboard Logística
-<img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Dashboard%20compras.png?raw=true">
 Projeto de dashboard desenvolvido com Power BI para uma transportadora, com o objetivo de identificar os principais fatores responsáveis pelas devoluções nas entregas, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
 Principais problemas relatados pelo cliente:<br>
 - Elevado índice de entregas atrasadas;<br>
@@ -14,7 +14,7 @@ Principais problemas relatados pelo cliente:<br>
 <br><br>
 
 ## Fonte dos dados 
-<img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
+<img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Modelo%20de%20dados.png?raw=true">
 A base de dados utilizada foi extraída do site da Kaggle, no formato .csv, contendo registros de uma empresa fictícia referentes aos anos de 2019 a 2021. O conjuto de dados inclui informações sobre:<br>
 - As entregas realizadas ao longo dos anos;<br>
 - Pedidos, clientes, destinos, motoristas, faturamento;<br>
@@ -25,7 +25,7 @@ Após  a análisar dos dados, foram definidos os principais pontos a serem desen
 <br><br><br>
 
 ## Medidas
-<img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Medidas.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Medidas%20compras.png?raw=true">
 Identificado as necessidades do cliente relacionadas com os atrasos e devoluções, iniciou o desenvolvimento estratégico das medidas de análise.<br>
 Principais medidas desenvolvidas;<br>
  - Análises de faturamento, pedidos, ítens, devoluções;<br>
@@ -39,5 +39,5 @@ Todas as medidas foram organizadas e padronizadas para facilitar a compreensão.
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
-    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/linguagens/sql.png?raw=true">
-    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/MayconJhonatan/Portfolio/blob/main/linguagens/sql.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/MayconJhonatan/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
