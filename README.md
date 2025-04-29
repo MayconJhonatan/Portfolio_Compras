@@ -1,5 +1,5 @@
 ## Dashboard de Gestão de Compras
-<img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Dashboard%20compras.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Dashboard%20de%20compras.png?raw=true">
 Projeto de dashboard desenvolvido com Power BI para uma empresa de produtos eletrônicos, com o objetivo de identificar os principais fatores responsáveis pelas ............, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
 Principais problemas relatados pelo cliente:<br>
 - .............;<br>
