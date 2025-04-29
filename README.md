@@ -1,11 +1,11 @@
 ## Dashboard de Gestão de Compras
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Dashboard%20compras.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para uma transportadora, com o objetivo de identificar os principais fatores responsáveis pelas devoluções nas entregas, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
+Projeto de dashboard desenvolvido com Power BI para uma empresa de produtos eletrônicos, com o objetivo de identificar os principais fatores responsáveis pelas ............, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
 Principais problemas relatados pelo cliente:<br>
-- Elevado índice de entregas atrasadas;<br>
-- Alto volume de devoluções;<br>
-- Redução no faturamento;<br>
-- Dificuldade em realizar comparações anuais dos pedidos.<br>
+- .............;<br>
+- Falhas no controle de período de recompras;<br>
+- Recompras equivocadas;<br>
+- Desequilíbrio de caixa.<br>
 <br>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
@@ -15,18 +15,18 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Modelo e Fonte dos dados 
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Modelo%20de%20dados.png?raw=true">
-A base de dados utilizada foi extraída do site da Kaggle, no formato .csv, contendo registros de uma empresa fictícia referentes aos anos de 2019 a 2021. O conjuto de dados inclui informações sobre:<br>
-- As entregas realizadas ao longo dos anos;<br>
-- Pedidos, clientes, destinos, motoristas, faturamento;<br>
-- Datas de emissão, previsão e realização das entregas;<br>
-- Motivos de devoluções.<br>
+A base de dados utilizada foi desenvolvida baseada em informações de .............., no formato .csv, contendo registros de uma empresa fictícia referentes aos anos de xxxxxxxxx. O conjuto de dados inclui informações sobre:<br>
+- ;<br>
+- ;<br>
+- ;<br>
+- .<br>
 Após  a análisar dos dados, foram definidos os principais pontos a serem desenvolvidos e estabelecidas as métricas necessárias para solucionar os problemas relatados pelo cliente. 
 
 <br><br><br>
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Medidas%20compras.png?raw=true">
-Identificado as necessidades do cliente relacionadas com os atrasos e devoluções, iniciou o desenvolvimento estratégico das medidas de análise.<br>
+Identificado as necessidades do cliente relacionadas com os peridos de recompras, iniciou o desenvolvimento estratégico das medidas de análise.<br>
 Principais medidas desenvolvidas;<br>
  - Análises de faturamento, pedidos, ítens, devoluções;<br>
  - Indicadores de entregas no prazo e com atrasos, além dos respectivos percentuais;<br>
