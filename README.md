@@ -13,7 +13,7 @@ Principais problemas relatados pelo cliente:<br>
 
 <br><br>
 
-## Fonte dos dados 
+## Modelo e Fonte dos dados 
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Modelo%20de%20dados.png?raw=true">
 A base de dados utilizada foi extraída do site da Kaggle, no formato .csv, contendo registros de uma empresa fictícia referentes aos anos de 2019 a 2021. O conjuto de dados inclui informações sobre:<br>
 - As entregas realizadas ao longo dos anos;<br>
