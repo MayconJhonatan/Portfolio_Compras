@@ -7,7 +7,7 @@ Principais problemas relatados pelo cliente:<br>
 - Redução no faturamento;<br>
 - Dificuldade em realizar comparações anuais dos pedidos.<br>
 <br>
-<a href="https://app.powerbi.com/reportEmbed?reportId=54c32b51-768e-4d10-afe1-ba36628d584d&autoAuth=true&ctid=9eb08943-dd35-493d-9e7a-37d444bb40eb">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/MayconJhonatan/Portfolio_Compras">Clique aqui</a> e acesse o repositório no Github.
 
