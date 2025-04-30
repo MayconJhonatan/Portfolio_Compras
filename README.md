@@ -6,7 +6,6 @@ Principais problemas relatados pelo cliente:<br>
 - Recompras equivocadas;<br>
 - Desequilíbrio de caixa.<br>
 <br>
-<iframe title="Dashboard Gestão de Compras - 2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWMwOWE2NjktZWM4Yi00OGFlLWI4MmEtOGM0YTU2ZTRhOGMzIiwidCI6IjllYjA4OTQzLWRkMzUtNDkzZC05ZTdhLTM3ZDQ0NGJiNDBlYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/MayconJhonatan/Portfolio_Compras">Clique aqui</a> e acesse o repositório no Github.
