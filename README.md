@@ -1,12 +1,12 @@
 ## Dashboard de Gestão de Compras
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Dashboard%20de%20compras.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para uma empresa de produtos eletrônicos, com o objetivo de identificar os principais fatores responsáveis pelas ............, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
+Projeto de dashboard desenvolvido com Power BI para uma empresa de produtos eletrônicos, com o objetivo de identificar os principais fatores responsáveis para identificar os melhores meses para à aquisição de novos produtos, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
 Principais problemas relatados pelo cliente:<br>
 - Falhas no controle de período de recompras;<br>
 - Recompras equivocadas;<br>
 - Desequilíbrio de caixa.<br>
 <br>
-<a href="https://app.powerbi.com/reportEmbed?reportId=fe99c5e7-5e55-4509-a828-75a1f29617d5&autoAuth=true&ctid=9eb08943-dd35-493d-9e7a-37d444bb40eb">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/MayconJhonatan/Portfolio_Compras">Clique aqui</a> e acesse o repositório no Github.
 
@@ -14,7 +14,7 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Modelo e Fonte dos dados 
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Modelo%20de%20dados.png?raw=true">
-A base de dados utilizada foi desenvolvida baseada em informações de .............., no formato .csv, contendo registros de uma empresa fictícia referentes aos anos de xxxxxxxxx. Sendo divididas em cinco tabelas, relacionando entre si. O conjuto de dados inclui informações sobre:<br>
+A base de dados utilizada foi de uma empresa fictícia, no formato .csv. Sendo divididas em cinco tabelas, relacionando entre si. O conjuto de dados inclui informações sobre:<br>
 - Dados dos Fornecedores;<br>
 - Informações sobre as compras;<br>
 - Dados sobre os produtos;<br>
