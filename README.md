@@ -14,7 +14,7 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Modelo e Fonte dos dados 
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Modelo%20de%20dados.png?raw=true">
-A base de dados utilizada foi de uma empresa fictícia, no formato .csv. Sendo divididas em cinco tabelas, relacionando entre si. O conjuto de dados inclui informações sobre:<br>
+A base de dados utilizada foi de uma empresa fictícia, no formato .csv. Sendo divididas em cinco tabelas, relacionadas entre si. O conjuto de dados inclui informações sobre:<br>
 - Dados dos Fornecedores;<br>
 - Informações sobre as compras;<br>
 - Dados sobre os produtos;<br>
