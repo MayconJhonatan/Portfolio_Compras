@@ -25,7 +25,7 @@ Após a análisar dos dados, foram definidos os principais pontos a serem desenv
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Compras/blob/main/Desing/Medidas%20compras.png?raw=true">
-Identificado as necessidades do cliente relacionadas com os peridos de recompras, iniciou o desenvolvimento estratégico das medidas de análise.<br>
+Identificado as necessidades do cliente relacionadas com os períodos de recompras, iniciou o desenvolvimento estratégico das medidas de análise.<br>
 Principais medidas desenvolvidas;<br>
  - Quantidade de Compras ;<br>
  - Quantidade de Produtos;<br>
