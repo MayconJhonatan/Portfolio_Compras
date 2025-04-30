@@ -19,7 +19,7 @@ A base de dados utilizada foi desenvolvida baseada em informações de .........
 - Informações sobre as compras;<br>
 - Dados sobre os produtos;<br>
 - Informações temporais.<br>
-Após  a análisar dos dados, foram definidos os principais pontos a serem desenvolvidos e estabelecidas as métricas necessárias para solucionar os problemas relatados pelo cliente. 
+Após a análisar dos dados, foram definidos os principais pontos a serem desenvolvidos e estabelecidas as métricas necessárias para solucionar os problemas relatados pelo cliente. 
 
 <br><br><br>
 
